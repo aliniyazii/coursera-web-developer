@@ -57,7 +57,8 @@ div p{
 /* Layout styles and media queries */
 .row {
     width: 100%;
-    
+    margin-right:auto;
+    margin-left:auto;
 }
 
 /* Desktop  */
