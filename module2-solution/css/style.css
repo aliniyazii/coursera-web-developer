@@ -8,6 +8,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     padding: 30px;
+    color:#000;
 }
 .row > div{
     position: relative;
