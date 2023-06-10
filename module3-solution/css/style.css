@@ -1,1 +1,78 @@
+body{
+    color: #020100;
+    font-family: 'ABeeZee';
+}
+a{
+    color: #020100;
+}
+header{
+    background-color: #999999;
+    color: #020100;
+    border-bottom:3px solid #020100;
+}
+.navbar-toggle.collapsed .icon-bar{
+    background-color: #020100;
+}
+.navbar-toggle.collapsed{
+    border-width: 2px;
+    border-color: #020100;
+}
+.navbar-toggle .icon-bar{
+    background-color: #fff;
+}
+.navbar-toggle{
+    border-width: 2px;
+    border-color: #fff;
+}
+.navbar-collapse{
+    background-color: #f0f0f0;
+}
+.bgcolorset{
+    background-color: #999999;
+}
+.navbar-brand,h1{
+    font-size: 2em;
+    font-weight: bold;
+}
+.navbar-nav li{
+    border-bottom: 2px solid #020100;
+}
+.navbar-nav li:last-child{
+    border: none;
+}
+.nav > li > a:hover, .nav > li > a:focus{
+    background-color: #fff;
+}
+.mt-30{
+    margin-top: 30px;
+}
+.col-xs-12{
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.pd-10{
+    padding: 5px 20px;
+}
 
+
+
+.pdm-80{
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+
+
+@media (min-width: 992px){
+.pdm-80{
+padding-left: initial;
+padding-right: initial;
+}
+}
+
+@media (min-width: 768px){
+.pdm-80{
+    padding-left: initial;
+    padding-right: initial;
+}
+}
